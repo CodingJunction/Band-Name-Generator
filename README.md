@@ -1,2 +1,4 @@
 # PythonProjects
-This repository contains projects in Python language
+This is a band name generator
+Run main.py to execute this code
+For information in input/output format read the info document
